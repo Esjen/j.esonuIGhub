@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This is a fun and interactive Node.js console app that lets users:\n- Convert a list of fruits to uppercase 🍎\n- Double or triple a list of numbers 🔢",
+  "main": "process.js",
+  "scripts": {
+    "start": "node process.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Enyinnaya Esonu <enyinnayaesonu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
