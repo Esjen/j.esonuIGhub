@@ -16,17 +16,20 @@ All other files stay directly in the root (`task-manager`) directory.
 
 ## 📁 Folder Structure
 
+```
 task-manager/
 │
 ├── src/
-│ ├── controllers/ # Business logic (task operations)
-│ ├── models/ # Data (in-memory task storage)
-│ ├── routes/ # API route definitions
-│ └── app.js # Express app config and middleware
+│   ├── controllers/        # Business logic (task operations)
+│   ├── models/             # Data (in-memory task storage)
+│   ├── routes/             # API route definitions
+│   └── app.js              # Express app config and middleware
 │
-├── server.js # App entry point
+├── server.js               # App entry point
 ├── package.json
 └── README.md
+```
+
 
 
 ---
