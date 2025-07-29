@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from 'mongoose';
 
 const app = express();
-mongoose.connect('mongodb+srv://yrtdfa:YK6QRmO8BlbhyKKg@cluster00.50n9ffr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00').then(() => {console.log("DB connected")}).catch();
+mongoose.connect("Your string").then(() => {console.log("DB connected")}).catch();
 
 app.get('/', (req, res) => {
     res.send("Hello from server");
