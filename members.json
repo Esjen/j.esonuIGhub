@@ -1,0 +1,7 @@
+[
+  { "name": "John", "password": "john123", "projects": ["API Optimization", "Database Migration"] },
+  { "name": "Charles Kojo", "password": "kojo123", "projects": ["Microservice Design", "Authentication System"] },
+  { "name": "Henry", "password": "henry123", "projects": ["Logging Service", "Caching Strategy"] },
+  { "name": "Daniel", "password": "daniel123", "projects": ["CI/CD Pipeline", "Unit Testing Framework"] },
+  { "name": "Ebuka", "password": "ebuka123", "projects": ["Containerization with Docker", "Monitoring Tools"] }
+]
